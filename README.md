@@ -13,6 +13,7 @@ I enjoy working with **Python, React, Django, databases, and modern web technolo
 * 💻 Skilled in **Python, Django, REST APIs, HTML, CSS, JavaScript, TypeScript, and React**
 * 🌐 Internship experience at **Adfusion Nepal**
 * 🚀 Contributed to the **USA Self Learn (USAL)** platform
+* 💼 Worked as a Junior Frontend Developer at Looptech
 * ✈️ Final Year Project: **AI Travel Assistant**
 * 📚 Interested in **software development, system design, and problem solving**
 
