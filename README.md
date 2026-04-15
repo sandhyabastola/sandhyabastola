@@ -143,7 +143,7 @@ This project focuses on analyzing the **UCI Online Retail Dataset**, which conta
 ## 📫 Connect With Me
 
 * 💼 LinkedIn: https://www.linkedin.com/in/sandhya-bastola/
-* 📧 Email: [sandhyabastolaa12@gmail.com](mailto:sandhyabastolaa12@gmail.com)
+* 📧 Email: [sandhyabastolaa12@gmail.com](mailto:sandhya.bastola58@gmail.com)
 
 ---
 
